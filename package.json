@@ -1,0 +1,10 @@
+{
+  "name": "promptastic",
+  "version": "1.0.0",
+  "description": "React interface for Promptastic",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
